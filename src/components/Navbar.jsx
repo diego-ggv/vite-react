@@ -3,7 +3,7 @@ import imgUrl from '../assets/react.png'
 
 function Navbar() {
   return (
-      <nav className="nav-bar">
+      <nav className="nav--bar">
         <img className="nav--logo" src={imgUrl} alt="react logo"/>
         <h3 className="nav--logotype">ReactFacts</h3>
         
